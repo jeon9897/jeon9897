@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=260&section=header&text=capsule%20render&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave)
+
 # Profile
 :information_desk_person: # Profile
 
