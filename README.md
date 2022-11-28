@@ -28,9 +28,7 @@
 [8. 리액트 - API를 활용한 영화소개 페이지](https://github.io/site명)
 
 ### Tools
-<img src="https://img.shields.io/badge/-Figma-orange?style=flat-square&logo=#E34F26" alt="Figma" /> 
-<img src="https://img.shields.io/badge/-Photoshop-blue?style=flat-square&logo=#E34F26" alt="photoshop" /> 
-<img src="https://img.shields.io/badge/-illustrator-orange?style=flat-square&logo=#E34F26" alt="illustrator" />
+<img src="https://img.shields.io/badge/-Figma-orange?style=flat-square&logo=#E34F26" alt="Figma" /> <img src="https://img.shields.io/badge/-Photoshop-blue?style=flat-square&logo=#E34F26" alt="photoshop" /> <img src="https://img.shields.io/badge/-illustrator-orange?style=flat-square&logo=#E34F26" alt="illustrator" />
 
 ### SNS
 
