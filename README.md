@@ -8,7 +8,10 @@
 도움이 되고자 합니다.:gift_heart:
 
 ### Skills
-<img src="https://img.shields.io/badge/-html5-orange?style=flat-square&logo=#E34F26" alt="html5" /> <img src="https://img.shields.io/badge/-css3-blue?style=flat-square&logo=#E34F26" alt="html5" /> <img src="https://img.shields.io/badge/-javascript-yellow?style=flat-square&logo=#E34F26" alt="html5" /> <img src="https://img.shields.io/badge/-jquery-blue?style=flat-square&logo=#E34F26" alt="html5" /> <img src="https://img.shields.io/badge/-React-whiteblue?style=flat-square&logo=#E34F26" alt="html5" />
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=#E34F26" alt="html5" /> <img src="https://img.shields.io/badge/-css3-blue?style=flat-square&logo=#E34F26" alt="html5" /> <img src="https://img.shields.io/badge/-javascript-yellow?style=flat-square&logo=#E34F26" alt="html5" /> 
+<img src="https://img.shields.io/badge/jQuery-E34F26?style=flat-square&logo=jQuery&logoColor=white" />
+<img src="https://img.shields.io/badge/React-E34F26?style=flat-square&logo=React&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" />
 
 ### Project
 [1. 쑤니디저트카페 반응형웹](https://github.io/site명)
