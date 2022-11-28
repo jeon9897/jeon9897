@@ -7,11 +7,11 @@
 여러가지 작업을 :file_folder:하면서 만들었던 프로젝트를 공유하고,:deciduous_tree:  
 도움이 되고자 합니다.:gift_heart:
 
-### Skills
+### :triangular_flag_on_post:Skills
 <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=HTML5&logoColor=white" alt="html5" /> <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=white" alt="css3" /> <img src="https://img.shields.io/badge/javascript-yellow?style=flat-square&logo=javascript&logoColor=white" alt="javascript" /> <img src="https://img.shields.io/badge/jQuery-darkblue?style=flat-square&logo=jQuery&logoColor=white" /> <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/CrossBrowsing-red?style=flat-square&logo=w3c&logoColor=white" alt="크로스 브라우징" />
 <img src="https://img.shields.io/badge/WebStandard-darkred?style=flat-square&logo=w3c&logoColor=white" alt="웹표준" />
                                                                                         
-### Project
+### :triangular_flag_on_post:Project
 [1. 쑤니디저트카페 반응형웹](https://github.io/site명)
 
 [2. 동물병원 적응형웹](https://github.io/site명)
@@ -28,9 +28,9 @@
 
 [8. 리액트 - API를 활용한 영화소개 페이지](https://github.io/site명)
 
-### Tools
+### :triangular_flag_on_post:Tools
 <img src="https://img.shields.io/badge/-Figma-orange?style=flat-square&logo=#E34F26" alt="Figma" /> <img src="https://img.shields.io/badge/-Photoshop-blue?style=flat-square&logo=#E34F26" alt="photoshop" /> <img src="https://img.shields.io/badge/-illustrator-orange?style=flat-square&logo=#E34F26" alt="illustrator" />
 
-### SNS
+### :triangular_flag_on_post:SNS
 
-### etc 
+### :triangular_flag_on_post:etc 
