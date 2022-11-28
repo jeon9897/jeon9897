@@ -8,13 +8,13 @@
 도움이 되고자 합니다.:gift_heart:
 
 ### Skills
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="html5" /> 
-<img src="https://img.shields.io/badge/CSS3-E34F26?style=flat-square&logo=CSS3&logoColor=white" alt="css3" /> 
-<img src="https://img.shields.io/badge/javascript-E34F26?style=flat-square&logo=javascript&logoColor=white" alt="javascript /> 
-<img src="https://img.shields.io/badge/jQuery-E34F26?style=flat-square&logo=jQuery&logoColor=white" />
-<img src="https://img.shields.io/badge/React-E34F26?style=flat-square&logo=React&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" />
-
+<img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=HTML5&logoColor=white" alt="html5" /> 
+<img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=white" alt="css3" /> 
+<img src="https://img.shields.io/badge/javascript-yellow?style=flat-square&logo=javascript&logoColor=white" alt="javascript /> 
+<img src="https://img.shields.io/badge/jQuery-darkblue?style=flat-square&logo=jQuery&logoColor=white" />
+<img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white" />
+<img src="https://img.shields.io/badge/CrossBrowsing-red?style=flat-square&logo=web&logoColor=white"" alt="크로스 브라우징" />
+                                                                                                   
 ### Project
 [1. 쑤니디저트카페 반응형웹](https://github.io/site명)
 
