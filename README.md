@@ -7,7 +7,7 @@
 여러가지 작업을 :file_folder:하면서 만들었던 프로젝트를 공유하고,:deciduous_tree:  
 도움이 되고자 합니다.:gift_heart:
 
-## Skills
+### Skills
 <img src="https://img.shields.io/badge/-html5-orange?style=flat-square&logo=#E34F26" alt="html5" /> <img src="https://img.shields.io/badge/-css3-blue?style=flat-square&logo=#E34F26" alt="html5" /> <img src="https://img.shields.io/badge/-javascript-yellow?style=flat-square&logo=#E34F26" alt="html5" /> <img src="https://img.shields.io/badge/-jquery-blue?style=flat-square&logo=#E34F26" alt="html5" /> <img src="https://img.shields.io/badge/-React-whiteblue?style=flat-square&logo=#E34F26" alt="html5" />
 
 ### Project
@@ -28,6 +28,10 @@
 [8. 리액트 - API를 활용한 영화소개 페이지](https://github.io/site명)
 
 ### Tools
+<img src="https://img.shields.io/badge/-Figma-orange?style=flat-square&logo=#E34F26" alt="Figma" />
+<img src="https://img.shields.io/badge/-Photoshop-blue?style=flat-square&logo=#E34F26" alt="photoshop" />
+<img src="https://img.shields.io/badge/-illustrator?style=flat-square&logo=#E34F26" alt="illustrator" />
 
-## SNS
-## 
+### SNS
+
+### etc 
