@@ -8,11 +8,9 @@
 도움이 되고자 합니다.:gift_heart:
 
 ## Skills
-<img src="https://img.shields.io/badge/-html-orange?style=flat-square&logo=#E34F26" alt="html5" />
-
+<img src="https://img.shields.io/badge/-html5-orange?style=flat-square&logo=#E34F26" alt="html5" /> <img src="https://img.shields.io/badge/-css3-blue?style=flat-square&logo=#E34F26" alt="html5" /> <img src="https://img.shields.io/badge/-javascript-yellow?style=flat-square&logo=#E34F26" alt="html5" /> <img src="https://img.shields.io/badge/-jquery-blue?style=flat-square&logo=#E34F26" alt="html5" /> <img src="https://img.shields.io/badge/-React-whiteblue?style=flat-square&logo=#E34F26" alt="html5" />
 
 ### Project
-### Language
 ### Tools
 
 ## SNS
