@@ -37,7 +37,13 @@
 ***이탤릭, 볼드***
 ~~취소선~~
 
-//
+//띄어쓰기(공백) - &nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+//줄바꿈 (br, p)
+줄을 강제로 바꾸고자 할 때는 <br>태그를 사용합니다.
+문단 태그 <p>문단태그</P>를 사용해도 됩니다.
 
 
 
