@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Frontend&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Frontend&fontSize=30)
 
 //1. 제목  ---------------------
 # 제목1
