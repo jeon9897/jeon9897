@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Frontend&fontSize=30)
 
- <img src="https://img.shields.io/badge/HTML5_like-blue" />
+ <img src="https://img.shields.io/badge/HTML5-blue" />
+ <img src="https://img.shields.io/badge/css3-orange" />
+ <img src="https://img.shields.io/badge/javascript-green" />
 
 //1. 제목  ---------------------
 # 제목1
