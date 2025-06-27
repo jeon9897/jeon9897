@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Frontend&fontSize=30)
 
- <img src="https://img.shields.io/badge/HTML5-blue?style=flat-square$logo=HTML5&logoColor='white' alt='html5'"/>
+ <img src="https://img.shields.io/badge/HTML5-blue?style=flat-square&logo=HTML5&logoColor='white' alt='html5'"/>
  <img src="https://img.shields.io/badge/css3-orange" />
  <img src="https://img.shields.io/badge/javascript-green" />
 
