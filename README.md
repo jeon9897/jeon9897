@@ -43,8 +43,9 @@
 
 ----9. 뱃지아이콘 https://shields.io -----------------------
 <img src="https://img.shields.io/badge/github-repo-blue?logo=html5" alt="" >
-<img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=HTML5&logoColor=white" alt="html5" />
 <img src="https://img.shields.io/badge/github-repo-blue?logo=css" alt="" >
+
+<img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=HTML5&logoColor=white" alt="html5" />
 <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=white" alt="css3" />
 
 
