@@ -26,6 +26,13 @@
 ***
 ---
 
+----6. 이미지 -------------------------
+![대체텍스트](이미지 경로나 주소)
+
+![동계올림픽 로고](https://mml.pstatic.net/www/mobile/edit/20260219_1095/upload_1771450612769HZ3pV.png)
+
+
+
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20Frontend개발%20&width=100%&height=160&fontSize=40&)
