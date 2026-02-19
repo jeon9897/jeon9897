@@ -41,8 +41,9 @@
       내용이 보이는 곳
 </details>
 
-----9. 뱃지아이콘 -----------------------
-
+----9. 뱃지아이콘 https://shields.io -----------------------
+<img src="https://img.shields.io/badge/HTML5 />
+<img src="https://img.shields.io/badge/css3 /> 
 
 
 
