@@ -48,7 +48,9 @@
 <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=HTML5&logoColor=white" alt="html5" />
 <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=white" alt="css3" />
 
+----10. 이모지 아이콘(단축키 윈도우 로고키 + ; 👩)
 
+📌 1. 반응형웹
 
 
 
