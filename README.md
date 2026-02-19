@@ -43,7 +43,10 @@
 
 ----9. 뱃지아이콘 https://shields.io -----------------------
 <img src="https://img.shields.io/badge/HTML5 />
-<img src="https://img.shields.io/badge/css3 /> 
+<img src="https://img.shields.io/badge/css3 />
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+<img alt="Static Badge" src="https://img.shields.io/badge/:HTML5">
+
 
 
 
